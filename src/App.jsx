@@ -8,7 +8,12 @@ function App() {
 
   return (
     <>
-      <h1> welcome to cicd class</h1>
+      <h1> welcome to cicd class
+        tulesh 
+        shanmukh
+        mohan krishna 
+        hanumanthurao
+      </h1>
       
     </>
   )
